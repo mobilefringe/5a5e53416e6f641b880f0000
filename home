@@ -17,8 +17,8 @@
 
 <div class="holder">
   <h1>67% of UK public wants aid to increase</h1><p>Monday 18 May 2015</p></div>
-<body>
 
+<body>
   <div class="dashboard display-animation" style="margin: 0 auto; width: 1130px;">
   <a class="tile tile-lg tile-pink ripple-effect" href="#">
     <span class="content-wrapper">
@@ -88,7 +88,7 @@
           <span class="title">Google Cast UX</span>
         </span>
       </span>      
-    </span>
+    </span> 
   </a>
   <a class="tile tile-lg tile-sqr tile-deep-orange ripple-effect" href="#">
     <span class="content-wrapper">
